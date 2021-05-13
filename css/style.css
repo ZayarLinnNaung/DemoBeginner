@@ -8,12 +8,19 @@ html,body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #fafafa;
 }
 
+h1{
+    color: #fafafa;
+}
+p{
+    color: lawngreen;
+    width: 50%;
+}
 .container{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
