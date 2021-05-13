@@ -1,0 +1,19 @@
+html,body{
+    width: 100%;
+    height: 100vh;
+    background-color: #333;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fafafa;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
